@@ -1,0 +1,14 @@
+---
+title: "R-Visualizations"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**California State University Chico**
+
+Data Science Initiative
+
+<https://datascience.csuchico.edu/event/ggplot2_intro1/>
