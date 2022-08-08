@@ -2,4 +2,4 @@
 
 Data Science Initiative
 
-<https://datascience.csuchico.edu/event/ggplot2_intro1/>
+[Data Science Initiative - Introduction to ggplot2](https://datascience.csuchico.edu/event/ggplot2_intro1/)
